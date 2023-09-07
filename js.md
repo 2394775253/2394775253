@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @2394775253
+- 👀 I’m interested in JS
